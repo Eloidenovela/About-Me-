@@ -1,4 +1,4 @@
-Inglish //
+Eng//
 About me, I am @EloideNovela!
 
 I am currently a student of computer and software engineering, dedicating myself to improving my programming and problem-solving skills. My passion for these subjects motivates me to continue learning and exploring new technologies and techniques. Currently, I am working with the programming languages C++, Python, and Java, each with its own strengths and unique applications. My goal is to continue developing my skills in these languages and apply them to solve complex problems and create innovative solutions.
